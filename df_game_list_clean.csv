@@ -1,0 +1,385 @@
+,ProductName,Platform,ListPrice,MSProduct,Multiplayer,Rating,RatingSystem,ReleaseDate,MSStoreLink
+0,A Plague Tale: Innocence,Xbox One,49.99,FALSE,FALSE,Mature 17+,ESRB,5/14/2019,https://www.microsoft.com/en-us/store/p/a-plague-tale-innocence/BQ2NNLQPS8RS
+1,A Plague Tale: Innocence,PC,44.99,FALSE,FALSE,Mature 17+,ESRB,1/23/2020,https://www.microsoft.com/en-us/store/p/a-plague-tale-innocence---windows-10/9ND0CG3LM22K
+2,Absolver,Xbox One,29.99,FALSE,TRUE,Everyone,ESRB,1/7/2019,https://www.microsoft.com/en-us/store/p/absolver/C3XCXTFS6FFQ
+3,ACE COMBAT 7: SKIES UNKNOWN,Xbox One,59.99,FALSE,TRUE,Teen,ESRB,1/18/2019,https://www.microsoft.com/en-us/p/ace-combat-7-skies-unknown/BRVM8RNWLXH1
+4,Afterparty,Xbox One,19.99,FALSE,FALSE,Mature 17+,ESRB,10/29/2019,https://www.microsoft.com/en-us/store/p/afterparty/9PC5VBPLHWNV
+5,Age of Empires Definitive Edition,PC,19.99,TRUE,TRUE,Teen,ESRB,8/19/2019,https://www.microsoft.com/en-us/store/p/age-of-empires-definitive-edition/9NJWTJSVGVLJ
+6,Age of Empires II: Definitive Edition,PC,19.99,TRUE,TRUE,Teen,ESRB,11/14/2019,https://www.microsoft.com/en-us/store/p/age-of-empires-ii-definitive-edition/9NJDD0JGPP2Q
+7,Age of Empires III: Definitive Edition,PC,19.99,TRUE,TRUE,Teen,ESRB,10/15/2020,https://www.microsoft.com/en-us/store/p/age-of-empires-iii-definitive-edition/9N1HF804QXN4
+8,Age of Wonders: Planetfall,Xbox One,49.99,FALSE,TRUE,Teen,ESRB,8/6/2019,https://www.microsoft.com/en-us/store/p/age-of-wonders-planetfall/BPTKRR85P0JW
+9,Age of Wonders: Planetfall,PC,49.99,FALSE,TRUE,Teen,ESRB,12/11/2019,https://www.microsoft.com/en-us/store/p/age-of-wonders-planetfall/9MZ2B3W86SCK
+10,Alan Wake,PC,12.49,FALSE,FALSE,Teen,ESRB,5/21/2020,https://www.microsoft.com/en-us/store/p/alan-wake/9NKV44QF1R68
+11,Alan Wake,Xbox One,19.99,TRUE,FALSE,Teen,ESRB,5/18/2010,https://www.microsoft.com/en-us/store/p/alan-wake/C493V31WXV80
+12,Alien: Isolation,Xbox One,29.99,FALSE,FALSE,Mature 17+,ESRB,10/7/2014,https://www.microsoft.com/en-us/store/p/alien-isolation/C1H9V6SLK2K5
+13,Alien: Isolation,PC,39.99,FALSE,FALSE,Mature 17+,ESRB,4/9/2020,https://www.microsoft.com/en-us/store/p/alien-isolation/9NSRJ872SGH7
+14,Alvastia Chronicles,Both,14.99,FALSE,FALSE,Everyone 10+,ESRB,1/18/2019,https://www.microsoft.com/en-us/store/p/alvastia-chronicles/9MVJGBNNFPPS
+15,Ape Out,PC,14.99,FALSE,FALSE,Teen,ESRB,8/22/2019,https://www.microsoft.com/en-us/store/p/ape-out/9NR6DZ9F76P8
+16,ARK: Survival Evolved,PC,49.99,FALSE,TRUE,Teen,ESRB,12/19/2017,https://www.microsoft.com/en-us/store/p/ark-survival-evolved/9NBLGGH52XC6
+17,ARK: Survival Evolved,Xbox One,49.99,FALSE,TRUE,Teen,ESRB,8/29/2017,https://www.microsoft.com/en-us/store/p/ark-survival-evolved/BNBLC4ZGFNKB
+18,Astrologaster,PC,9.99,FALSE,FALSE,Teen,ESRB,3/26/2020,https://www.microsoft.com/en-us/store/p/astrologaster/9NFT0CMC62DX
+19,ASTRONEER,Both,29.99,FALSE,FALSE,Everyone,ESRB,2/6/2019,https://www.microsoft.com/en-us/store/p/astroneer/9NBLGGH43KZB
+20,Bad North: Jotunn Edition,Xbox One,14.99,FALSE,FALSE,Teen,ESRB,8/28/2018,https://www.microsoft.com/en-us/store/p/bad-north-jotunn-edition/BR47R4J78FH8
+21,Bad North: Jotunn Edition,PC,14.99,FALSE,FALSE,Teen,ESRB,9/26/2019,https://www.microsoft.com/en-us/store/p/bad-north-jotunn-edition/9N4T8VCMQVDT
+22,Banjo Kazooie: N n B,Xbox One,14.99,TRUE,FALSE,Everyone 10+,ESRB,8/3/2010,https://www.microsoft.com/en-us/store/p/banjo-kazooie-n-n-b/BVR64CDJ01FJ
+23,Banjo-Kazooie,Xbox One,14.99,TRUE,FALSE,Everyone,ESRB,1/11/2010,https://www.microsoft.com/en-us/store/p/banjo-kazooie/BSJG7TTSWVJ2
+24,Banjo-Tooie,Xbox One,14.99,TRUE,FALSE,Everyone,ESRB,6/23/2010,https://www.microsoft.com/en-us/store/p/banjo-tooie/BX27S00SKW1V
+25,Batman: Arkham Knight,Xbox One,19.99,FALSE,FALSE,Mature 17+,ESRB,6/23/2015,https://www.microsoft.com/en-us/store/p/batman-arkham-knight/BSLX1RNXR6H7
+26,Battle Chasers: Nightwar,Xbox One,29.99,FALSE,FALSE,Teen,ESRB,10/3/2017,https://www.microsoft.com/en-us/store/p/battle-chasers-nightwar/BNVPW9NHWNM5
+27,Battle Chasers: Nightwar,PC,29.99,FALSE,FALSE,Teen,ESRB,6/9/2019,https://www.microsoft.com/en-us/store/p/battle-chasers-nightwar/9NT8XR7D5L00
+28,Battlefleet Gothic: Armada 2 - Windows 10,PC,29.99,FALSE,FALSE,Mature 17+,ESRB,6/11/2020,https://www.microsoft.com/en-us/store/p/battlefleet-gothic-armada-2---windows-10/9NGWKW55M85P
+29,BATTLETECH,PC,39.99,FALSE,TRUE,Teen,ESRB,6/11/2020,https://www.microsoft.com/en-us/store/p/battletech/9NQVDQS2BC10
+30,Battletoads,Both,19.99,TRUE,FALSE,Everyone 10+,ESRB,8/20/2020,https://www.microsoft.com/en-us/store/p/battletoads/9N7GCF5SGCXC
+31,Blair Witch,Both,29.99,FALSE,FALSE,Mature 17+,ESRB,8/30/2019,https://www.microsoft.com/en-us/store/p/blair-witch/9NG7LG421V0Q
+32,Bleeding Edge,Both,29.99,TRUE,TRUE,Teen,ESRB,3/24/2020,https://www.microsoft.com/en-us/store/p/bleeding-edge/9NX6XGVJ0J3D
+33,Bloodstained: Ritual of the Night,Xbox One,39.99,FALSE,FALSE,Teen,ESRB,6/18/2019,https://www.microsoft.com/en-us/store/p/bloodstained-ritual-of-the-night/9P9K78101LCW
+34,Bloodstained: Ritual of the Night,PC,39.99,FALSE,FALSE,Teen,ESRB,9/19/2019,https://www.microsoft.com/en-us/store/p/bloodstained-ritual-of-the-night/9MWB2BFF0SPD
+35,Bridge Constructor Portal,Xbox One,14.99,FALSE,FALSE,Everyone,ESRB,2/28/2018,https://www.microsoft.com/en-us/store/p/bridge-constructor-portal/BNRX1DN6GXM6
+36,Bridge Constructor Portal,PC,9.99,FALSE,FALSE,Everyone 10+,ESRB,10/18/2018,https://www.microsoft.com/en-us/store/p/bridge-constructor-portal/9PDXF172R7VJ
+37,Broforce,PC,14.99,FALSE,TRUE,Mature 17+,ESRB,6/9/2019,https://www.microsoft.com/en-us/store/p/broforce/9P03ZQMBMV65
+38,Carrion,Xbox One,19.99,FALSE,FALSE,Mature 17+,ESRB,7/23/2020,https://www.microsoft.com/en-us/store/p/carrion/9NPKKNBJ258V
+39,Carrion,PC,19.99,FALSE,FALSE,Mature 17+,ESRB,7/23/2020,https://www.microsoft.com/en-us/store/p/carrion/9MSMJH3C6TKR
+40,Children of Morta,Both,21.99,FALSE,FALSE,Teen,ESRB,10/15/2019,https://www.microsoft.com/en-us/store/p/children-of-morta/9P675WH90SB4
+41,Cities: Skylines,PC,39.99,FALSE,FALSE,Everyone,ESRB,5/19/2017,https://www.microsoft.com/en-us/store/p/cities-skylines---windows-10-edition/9NWVC7XP3PFD
+42,Cities: Skylines,Xbox One,39.99,FALSE,FALSE,Everyone,ESRB,4/21/2017,https://www.microsoft.com/en-us/store/p/cities-skylines---xbox-one-edition/C4GH8N6ZXG5L
+43,ClusterTruck,Xbox One,14.99,FALSE,FALSE,Everyone,ESRB,10/28/2016,https://www.microsoft.com/en-us/store/p/clustertruck/BX4J85JZNGXQ
+44,ClusterTruck,PC,14.99,FALSE,FALSE,Everyone,ESRB,6/9/2019,https://www.microsoft.com/en-us/store/p/clustertruck/9N8WVMD7J5GQ
+45,Costume Quest 2,Xbox One,14.99,FALSE,FALSE,Everyone 10+,ESRB,10/29/2014,https://www.microsoft.com/en-us/store/p/costume-quest-2/BZ92FB6PWXFJ
+46,Crackdown 3,Both,29.99,TRUE,TRUE,Mature 17+,ESRB,2/15/2019,https://www.microsoft.com/en-us/p/crackdown-3/9NXR6469DM2P
+47,Creature in the Well,Both,14.99,FALSE,FALSE,Everyone,ESRB,9/6/2019,https://www.microsoft.com/en-us/store/p/creature-in-the-well/9P3SWZZJ1M4B
+48,CrossCode,Xbox One,19.99,FALSE,FALSE,Teen,ESRB,7/11/2020,https://www.microsoft.com/en-us/store/p/crosscode/9N04RQQ64524
+49,CrossCode,PC,19.99,FALSE,FALSE,Teen,ESRB,6/9/2019,https://www.microsoft.com/en-us/store/p/crosscode/9NFDPQ0KZ6RN
+50,Crossing Souls,PC,14.99,FALSE,FALSE,Teen,ESRB,8/20/2020,https://www.microsoft.com/en-us/store/p/crossing-souls/9PD1Z95CNTW4
+51,Crusader Kings III,PC,19.99,FALSE,TRUE,Mature 17+,ESRB,9/1/2020,https://www.microsoft.com/en-us/store/p/crusader-kings-iii/9N7GG222GTTH
+52,Darksiders Genesis,PC,39.99,FALSE,FALSE,Teen,ESRB,8/6/2020,https://www.microsoft.com/en-us/store/p/darksiders-genesis/9NJ5X04M30HN
+53,Darksiders Genesis,Xbox One,39.99,FALSE,FALSE,Teen,ESRB,2/14/2020,https://www.microsoft.com/en-us/store/p/darksiders-genesis/BRZ9553VPPBD
+54,Darksiders III,Xbox One,59.99,FALSE,FALSE,Mature 17+,ESRB,11/27/2018,https://www.microsoft.com/en-us/p/darksiders-iii/BSVZCMGZV52L
+55,Darksiders III,PC,59.99,FALSE,FALSE,Mature 17+,ESRB,11/21/2019,https://www.microsoft.com/en-us/store/p/darksiders-iii/9PLPXGK1GDQ1
+56,DayZ,Xbox One,49.99,FALSE,TRUE,Mature 17+,ESRB,3/27/2019,https://www.microsoft.com/en-us/store/p/dayz/BSR9NLHVF1KL
+57,de Blob,Xbox One,19.99,FALSE,TRUE,Everyone,ESRB,11/14/2017,https://www.microsoft.com/en-us/store/p/de-blob/C092FLK91X41
+58,Dead by Daylight,PC,19.99,FALSE,TRUE,Mature 17+,ESRB,10/31/2019,https://www.microsoft.com/en-us/store/p/dead-by-daylight-windows/9NMS4SFNBGBH
+59,Dead by Daylight,Xbox One,29.99,FALSE,TRUE,Mature 17+,ESRB,6/20/2017,https://www.microsoft.com/en-us/store/p/dead-by-daylight-special-edition/C0N22P73QZ60
+60,Dead Cells,Xbox One,24.99,FALSE,FALSE,Teen,ESRB,8/7/2018,https://www.microsoft.com/en-us/store/p/dead-cells/BQSCNS1T8PHQ
+61,Dead Cells,PC,24.99,FALSE,FALSE,Mature 17+,ESRB,9/5/2019,https://www.microsoft.com/en-us/store/p/dead-cells/9NKVX66J0ZSK
+62,Dead Island Definitive Edition,Xbox One,19.99,FALSE,TRUE,Mature 17+,ESRB,5/31/2016,https://www.microsoft.com/en-us/store/p/dead-island-definitive-edition/BS7F51G3DP8R
+63,Death Squared,Xbox One,14.99,FALSE,TRUE,Everyone,ESRB,3/14/2017,https://www.microsoft.com/en-us/store/p/death-squared/BS32QFXVPWBC
+64,Death's Gambit,PC,19.99,FALSE,FALSE,Teen,ESRB,2/13/2020,https://www.microsoft.com/en-us/store/p/deaths-gambit/9MV537XVLVXR
+65,Deliver Us The Moon,Xbox One,24.99,FALSE,FALSE,Teen,ESRB,4/24/2020,https://www.microsoft.com/en-us/store/p/deliver-us-the-moon/9NVVSHQ771WG
+66,Deliver Us The Moon,PC,24.99,FALSE,FALSE,Teen,ESRB,4/24/2020,https://www.microsoft.com/en-us/store/p/deliver-us-the-moon/9PF6BS5DGNLX
+67,DEMON'S TILT,Both,19.99,FALSE,FALSE,Everyone 10+,ESRB,12/6/2019,https://www.microsoft.com/en-us/store/p/demons-tilt/9N5344N0TFR7
+68,Descenders,Both,24.99,FALSE,TRUE,Everyone,ESRB,5/7/2019,https://www.microsoft.com/en-us/store/p/descenders/C37XBX7DCBZ0
+69,DiRT 4,Xbox One,24.99,FALSE,TRUE,Everyone,ESRB,6/6/2017,https://www.microsoft.com/en-us/store/p/dirt-4/C2MBDNDS3H5W
+70,DiRT Rally 2.0,Xbox One,39.99,FALSE,TRUE,Everyone,ESRB,2/26/2019,https://www.microsoft.com/en-us/store/p/dirt-rally-20/BRPGP6H8P26F
+71,DiRT Rally 2.0,PC,39.99,FALSE,FALSE,Everyone,ESRB,9/26/2019,https://www.microsoft.com/en-us/store/p/dirt-rally-20-windows/9MT31ZWMPJCK
+72,Dishonored 2,Xbox One,39.99,FALSE,FALSE,Mature 17+,ESRB,11/11/2016,https://www.microsoft.com/en-us/store/p/dishonored-2/BSZM480TSWGP
+73,Dishonored 2,PC,39.99,FALSE,FALSE,Mature 17+,ESRB,10/3/2019,https://www.microsoft.com/en-us/store/p/dishonored-2/9MW4RJDRSF78
+74,Disneyland Adventures,Both,19.99,TRUE,FALSE,Everyone 10+,ESRB,10/31/2017,https://www.microsoft.com/en-us/store/p/disneyland-adventures/9N6Z8DQXSQWH
+75,Don't Starve: Giant Edition,Both,14.99,FALSE,FALSE,Teen,ESRB,8/26/2015,https://www.microsoft.com/en-us/store/p/dont-starve-giant-edition/C0XBNVR137DZ
+76,Double Dragon Neon,Xbox One,9.99,TRUE,FALSE,Teen,ESRB,9/12/2012,https://www.microsoft.com/en-us/store/p/double-dragon-neon/C2592KJZ0Q1X
+77,Double Kick Heroes,Both,21.99,FALSE,FALSE,Mature 17+,ESRB,8/28/2020,https://www.microsoft.com/en-us/store/p/double-kick-heroes/9NJPT63K27W8
+78,Downwell,PC,2.99,FALSE,FALSE,Everyone,ESRB,8/1/2019,https://www.microsoft.com/en-us/store/p/downwell/9P641Z19NT2S
+79,DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition,Both,39.99,FALSE,FALSE,Teen,ESRB,12/4/2020,https://www.microsoft.com/en-us/store/p/dragon-quest-xi-s-echoes-of-an-elusive-age---definitive-edition/9PBDC0XZ8TXK
+80,Dungeon of the Endless,Xbox One,11.99,FALSE,TRUE,Teen,ESRB,3/16/2016,https://www.microsoft.com/en-us/store/p/dungeon-of-the-endless/BT56B4R21179
+81,Dungeon of the Endless,PC,11.99,FALSE,TRUE,Teen,ESRB,6/11/2020,https://www.microsoft.com/en-us/store/p/dungeon-of-the-endless/9N46K0X6TBZK
+82,eFootball PES 2020 STANDARD EDITION,Xbox One,29.99,FALSE,TRUE,Everyone,ESRB,9/10/2019,https://www.microsoft.com/en-us/store/p/efootball-pes-2020-standard-edition/BP4KK0NCLCHQ
+83,Endless Legend,PC,29.99,FALSE,TRUE,Teen,ESRB,5/12/2020,https://www.microsoft.com/en-us/store/p/endless-legend/9NP09BFQNHCJ
+84,Endless Space 2: Deluxe Edition,PC,39.99,FALSE,TRUE,Everyone,ESRB,7/9/2020,https://www.microsoft.com/en-us/store/p/endless-space-2-deluxe-edition/9NV3Q7WVN2RB
+85,Enter The Gungeon,Both,14.99,FALSE,FALSE,Everyone 10+,ESRB,4/5/2017,https://www.microsoft.com/en-us/store/p/enter-the-gungeon/9NB65S6LFZRT
+86,Europa Universalis IV - Microsoft Store Edition,PC,44.99,FALSE,TRUE,Everyone 10+,ESRB,12/4/2019,https://www.microsoft.com/en-us/store/p/europa-universalis-iv---microsoft-store-edition/9PHQJWGLTZM8
+87,F1 2019,Xbox One,59.99,FALSE,TRUE,Everyone,ESRB,8/20/2019,https://www.microsoft.com/en-us/store/p/f1-2019/BP4H9HD3FSWB
+88,F1 2019,PC,59.99,FALSE,TRUE,Everyone,ESRB,7/30/2020,https://www.microsoft.com/en-us/store/p/f1-2019-pc/9NL9VGSH00LL
+89,Fable Anniversary,Xbox One,39.99,TRUE,FALSE,Mature 17+,ESRB,1/29/2014,https://www.microsoft.com/en-us/store/p/fable-anniversary/C2Q32JM0BPZL
+90,Fable II,Xbox One,19.99,TRUE,TRUE,Mature 17+,ESRB,4/6/2010,https://www.microsoft.com/en-us/store/p/fable-ii/C2WKJJ9F5936
+91,Fable III,Xbox One,19.99,TRUE,TRUE,Mature 17+,ESRB,10/25/2010,https://www.microsoft.com/en-us/store/p/fable-iii/BR46KM4D5B9L
+92,Faeria,PC,24.99,FALSE,TRUE,Everyone,ESRB,12/5/2019,https://www.microsoft.com/en-us/store/p/faeria/9N1XLJGDC163
+93,Fallout 76,Xbox One,39.99,FALSE,TRUE,Mature 17+,ESRB,11/14/2018,https://www.microsoft.com/en-us/store/p/fallout-76/BS6WJ2L56B10
+94,Fallout 76,PC,39.99,FALSE,FALSE,Mature 17+,ESRB,7/9/2020,https://www.microsoft.com/en-us/store/p/fallout-76-pc/9NKGNMNK3K3Z
+95,Fallout: New Vegas,Xbox One,4.49,TRUE,FALSE,Mature 17+,ESRB,10/19/2010,https://www.microsoft.com/en-us/store/p/fallout-new-vegas/BX3JNK07Z6QK
+96,Farming Simulator 17,Xbox One,19.99,FALSE,TRUE,Everyone,ESRB,10/25/2016,https://www.microsoft.com/en-us/store/p/farming-simulator-17/C45KV8Q992HV
+97,Farming Simulator 17,PC,14.99,FALSE,FALSE,Everyone,ESRB,12/4/2019,https://www.microsoft.com/en-us/store/p/farming-simulator-17---windows-10/9N2NCBXW44HV
+98,Felix The Reaper,Xbox One,24.99,FALSE,FALSE,Teen,ESRB,10/17/2019,https://www.microsoft.com/en-us/store/p/felix-the-reaper/BTP7VK91B2Z3
+99,Felix The Reaper,PC,24.99,FALSE,FALSE,Teen,ESRB,10/17/2019,https://www.microsoft.com/en-us/store/p/felix-the-reaper-pc/9MVNB889L3HN
+100,FINAL FANTASY IX,Both,20.99,FALSE,FALSE,Teen,ESRB,2/13/2019,https://www.microsoft.com/en-us/store/p/final-fantasy-ix/9NPGTNQFC8B5
+101,FINAL FANTASY VII,Xbox One,15.99,FALSE,FALSE,Teen,ESRB,3/26/2019,https://www.microsoft.com/en-us/store/p/final-fantasy-vii/BWKXQC5BL5R1
+102,FINAL FANTASY VII,PC,15.99,FALSE,FALSE,Teen,ESRB,8/13/2020,https://www.microsoft.com/en-us/store/p/final-fantasy-vii-windows-edition/9PN0W216SKZB
+103,FINAL FANTASY XV,Xbox One,34.99,FALSE,TRUE,Teen,ESRB,3/6/2018,https://www.microsoft.com/en-us/p/final-fantasy-xv-royal-edition/BNMRPFLB3PQW
+104,FINAL FANTASY XV,PC,34.99,FALSE,FALSE,Teen,ESRB,3/6/2018,https://www.microsoft.com/en-us/store/p/final-fantasy-xv-windows-edition/9NR0N2LZ6TC5
+105,Fishing Sim World: Pro Tour,Xbox One,19.99,FALSE,TRUE,Everyone,ESRB,9/18/2018,https://www.microsoft.com/en-us/store/p/fishing-sim-world-pro-tour/BPR4TX9NRWRW
+106,Fishing Sim World: Pro Tour,PC,23.99,FALSE,TRUE,Everyone,ESRB,1/30/2020,https://www.microsoft.com/en-us/store/p/fishing-sim-world-pro-tour/9NM7LC8MJXKS
+107,Football Manager 2020,PC,49.99,FALSE,TRUE,Everyone,ESRB,4/9/2020,https://www.microsoft.com/en-us/store/p/football-manager-2020/9N0K062BZJVK
+108,For The King,Xbox One,24.99,FALSE,FALSE,Teen,ESRB,5/10/2019,https://www.microsoft.com/en-us/store/p/for-the-king/BP2BW45WZ45Z
+109,For The King,PC,24.99,FALSE,FALSE,Teen,ESRB,8/6/2019,https://www.microsoft.com/en-us/store/p/for-the-king/9NS1CD1V4BKW
+110,Forager,Xbox One,19.99,FALSE,FALSE,Everyone 10+,ESRB,7/16/2020,https://www.microsoft.com/en-us/store/p/forager/9MV2S7Q5PHSW
+111,Forager,PC,19.99,FALSE,FALSE,Everyone 10+,ESRB,7/16/2020,https://www.microsoft.com/en-us/store/p/forager/9P5SFDNW6V13
+112,Forza Horizon 4 Standard Edition,Both,59.99,TRUE,TRUE,Everyone,ESRB,10/2/2018,https://www.microsoft.com/en-us/p/forza-horizon-4-standard-edition/9PNJXVCVWD4K
+113,Fractured Minds,Xbox One,1.99,FALSE,FALSE,Everyone,ESRB,11/14/2019,https://www.microsoft.com/en-us/store/p/fractured-minds/BXX0NHDR1FNZ
+114,Frostpunk,PC,29.99,FALSE,FALSE,Mature 17+,ESRB,4/24/2018,https://www.microsoft.com/en-us/store/p/frostpunk/9NS0KH25D76X
+115,Frostpunk,Xbox One,29.99,FALSE,FALSE,Mature 17+,ESRB,10/11/2019,https://www.microsoft.com/en-us/store/p/frostpunk-console-edition/9NP539LHJD8S
+116,FTL: Faster Than Light,PC,9.99,FALSE,FALSE,Everyone 10+,ESRB,1/9/2020,https://www.microsoft.com/en-us/store/p/ftl-faster-than-light/9NWNTZQW4G8G
+117,Fuzion Frenzy,Xbox One,9.99,TRUE,TRUE,Everyone,ESRB,9/23/2001,https://www.microsoft.com/en-us/store/p/fuzion-frenzy/C2P985H1H42H
+118,Gato Roboto,Xbox One,7.99,FALSE,FALSE,Everyone,ESRB,4/21/2020,https://www.microsoft.com/en-us/store/p/gato-roboto/9PF6XX9BSHF0
+119,Gato Roboto,PC,7.99,FALSE,FALSE,Everyone,ESRB,4/21/2020,https://www.microsoft.com/en-us/store/p/gato-roboto/9PBJQ90CT236
+120,Gears 5,Both,39.99,TRUE,TRUE,Mature 17+,ESRB,9/10/2019,https://www.microsoft.com/en-us/p/gears-5/C2KDNLT2H7DM
+121,Gears 5 Ultimate Edition,Both,59.99,TRUE,TRUE,Mature 17+,ESRB,9/10/2019,https://www.microsoft.com/en-us/store/p/gears-5-ultimate-edition/9P9CKRGR40KK
+122,Gears of War,Xbox One,11.99,TRUE,FALSE,Mature 17+,ESRB,12/29/2009,https://www.microsoft.com/en-us/store/p/gears-of-war/BPN08ZDRPSFK
+123,Gears of War 2,Xbox One,11.99,TRUE,FALSE,Mature 17+,ESRB,10/12/2010,https://www.microsoft.com/en-us/store/p/gears-of-war-2/C1SDBNRFXT1D
+124,Gears of War 3,Xbox One,11.99,TRUE,FALSE,Mature 17+,ESRB,3/27/2012,https://www.microsoft.com/en-us/store/p/gears-of-war-3/BPKDQSSFQ9WV
+125,Gears of War 4,Both,19.99,TRUE,TRUE,Mature 17+,ESRB,10/11/2016,https://www.microsoft.com/en-us/p/gears-of-war-4/9NBLGGH4PBBM
+126,Gears of War: Judgment,Xbox One,11.99,TRUE,FALSE,Mature 17+,ESRB,6/18/2013,https://www.microsoft.com/en-us/store/p/gears-of-war-judgment/BSHMMGRP84N4
+127,Gears of War: Ultimate Edition,Xbox One,11.99,TRUE,TRUE,Mature 17+,ESRB,8/25/2015,https://www.microsoft.com/en-us/store/p/gears-of-war-ultimate-edition/BQT21VXFS52F
+128,Gears of War: Ultimate Edition,PC,19.99,TRUE,TRUE,Mature 17+,ESRB,2/1/2016,https://www.microsoft.com/en-us/store/p/gears-of-war-ultimate-edition-for-windows-10/9NBLGGH3SHM5
+129,Gears Tactics - Windows 10,PC,59.99,TRUE,FALSE,Mature 17+,ESRB,4/28/2020,https://www.microsoft.com/en-us/store/p/gears-tactics---windows-10/9PNJ8VXWQ8HN
+130,Giana Sisters: Twisted Dreams - Director's Cut,Xbox One,14.99,FALSE,FALSE,Everyone,ESRB,12/12/2014,https://www.microsoft.com/en-us/store/p/giana-sisters-twisted-dreams---directors-cut/C48XJRK40VC4
+131,Goat Simulator,Xbox One,9.99,FALSE,TRUE,Teen,ESRB,4/17/2015,https://www.microsoft.com/en-us/store/p/goat-simulator/BV0NM309K1TL
+132,Goat Simulator,PC,9.59,FALSE,FALSE,Teen,ESRB,10/25/2018,https://www.microsoft.com/en-us/store/p/goat-simulator-windows-10/9MXWKHJ3VZZH
+133,Golf With Your Friends,Xbox One,19.99,FALSE,TRUE,Everyone 10+,ESRB,5/19/2020,https://www.microsoft.com/en-us/store/p/golf-with-your-friends/9N14G09PWG74
+134,Golf With Your Friends,PC,19.99,FALSE,TRUE,Everyone 10+,ESRB,7/23/2020,https://www.microsoft.com/en-us/store/p/golf-with-your-friends/9MVK5W0HMRP7
+135,GoNNER,Xbox One,9.99,FALSE,FALSE,Everyone 10+,ESRB,9/14/2018,https://www.microsoft.com/en-us/store/p/gonner---bleberry-edition/BRJ4KRC08BTQ
+136,GoNNER,PC,9.99,FALSE,FALSE,Everyone 10+,ESRB,9/12/2019,https://www.microsoft.com/en-us/store/p/gonner-win10/9PBM5VSZDW5C
+137,Gris,PC,16.99,FALSE,FALSE,Everyone,ESRB,1/23/2020,https://www.microsoft.com/en-us/store/p/gris/9NHHP2H0ZP98
+138,Grounded - Game Preview,Both,29.99,TRUE,FALSE,Teen,ESRB,12/31/2799,https://www.microsoft.com/en-us/store/p/grounded---game-preview/9PJTHRNVH62H
+139,Guacamelee! 2,Both,19.99,FALSE,TRUE,Everyone 10+,ESRB,1/18/2019,https://www.microsoft.com/en-us/store/p/guacamelee-2/9NVK1W7L093S
+140,Halo 2: Anniversary,PC,9.99,TRUE,TRUE,Mature 17+,ESRB,5/13/2020,https://www.microsoft.com/en-us/store/p/halo-2-anniversary/9P5739G419LD
+141,Halo 3,PC,9.99,TRUE,TRUE,Mature 17+,ESRB,7/14/2020,https://www.microsoft.com/en-us/store/p/halo-3/9PGL2Z1H9M4R
+142,Halo 5: Guardians,Xbox One,19.99,TRUE,TRUE,Teen,ESRB,10/27/2015,https://www.microsoft.com/en-us/store/p/halo-5-guardians/BRRC2BP0G9P0
+143,Halo Wars 2,PC,19.99,TRUE,TRUE,Teen,ESRB,11/30/2016,https://www.microsoft.com/en-us/store/p/halo-wars-2/9NBLGGH5WMKM
+144,Halo Wars 2: Standard Edition,Xbox One,39.99,TRUE,TRUE,Teen,ESRB,2/21/2017,https://www.microsoft.com/en-us/store/p/halo-wars-2-standard-edition/C42KCJCLX6MX
+145,Halo Wars 2: Standard Edition,PC,39.99,TRUE,TRUE,Teen,ESRB,2/21/2017,https://www.microsoft.com/en-us/store/p/halo-wars-2-standard-edition/9NBLGGH515BD
+146,Halo Wars: Definitive Edition,Xbox One,19.99,TRUE,TRUE,Teen,ESRB,12/20/2016,https://www.microsoft.com/en-us/store/p/halo-wars-definitive-edition/BPRPQSKXTD1L
+147,Halo Wars: Definitive Edition,PC,19.99,TRUE,TRUE,Teen,ESRB,4/20/2017,https://www.microsoft.com/en-us/store/p/halo-wars-definitive-edition-pc/9NBLGGH5WLR0
+148,Halo: Combat Evolved Anniversary,PC,9.99,TRUE,TRUE,Mature 17+,ESRB,3/3/2020,https://www.microsoft.com/en-us/store/p/halo-combat-evolved-anniversary/9NWQMVSB63N4
+149,Halo: Reach,PC,9.99,TRUE,TRUE,Mature 17+,ESRB,12/3/2019,https://www.microsoft.com/en-us/store/p/halo-reach/9N9WZT3PJ27W
+150,Halo: Spartan Assault,PC,2.99,TRUE,FALSE,Teen,ESRB,7/8/2013,https://www.microsoft.com/en-us/store/p/halo-spartan-assault/9WZDNCRFHWFH
+151,Halo: Spartan Assault,Xbox One,4.99,TRUE,TRUE,Teen,ESRB,12/23/2013,https://www.microsoft.com/en-us/store/p/halo-spartan-assault/BV0K9LMLQ9W5
+152,Halo: Spartan Strike,PC,2.99,TRUE,FALSE,Everyone 10+,ESRB,11/25/2014,https://www.microsoft.com/en-us/store/p/halo-spartan-strike/9WZDNCRFJBFJ
+153,Halo: The Master Chief Collection,PC,39.99,TRUE,TRUE,Mature 17+,ESRB,12/3/2019,https://www.microsoft.com/en-us/store/p/halo-the-master-chief-collection/9NTM9HXNLSZX
+154,Halo: The Master Chief Collection,Xbox One,39.99,TRUE,TRUE,Mature 17+,ESRB,11/14/2019,https://www.microsoft.com/en-us/p/halo-the-master-chief-collection/9MT8PTGVHX2P
+155,Hatoful Boyfriend,PC,9.99,FALSE,FALSE,Everyone 10+,ESRB,6/9/2019,https://www.microsoft.com/en-us/store/p/hatoful-boyfriend/9NCPXWLM4152
+156,Hearts of Iron IV: Cadet Edition,PC,39.99,FALSE,FALSE,Teen,ESRB,11/13/2019,https://www.microsoft.com/en-us/store/p/hearts-of-iron-iv-cadet-edition/9NF6WPNS1S73
+157,Hellblade: Senua's Sacrifice,Xbox One,29.99,TRUE,FALSE,Mature 17+,ESRB,4/11/2018,https://www.microsoft.com/en-us/store/p/hellblade-senuas-sacrifice/C4Z7QM8FSXM2
+158,Hellblade: Senua's Sacrifice,PC,29.99,FALSE,FALSE,Mature 17+,ESRB,4/11/2018,https://www.microsoft.com/en-us/store/p/hellblade-senuas-sacrifice/9NCLP4LV5K7Z
+159,Hello Neighbor,PC,29.99,FALSE,FALSE,Everyone 10+,ESRB,12/8/2017,https://www.microsoft.com/en-us/store/p/hello-neighbor/9NDDH3R9DF40
+160,Hello Neighbor,Xbox One,29.99,FALSE,FALSE,Everyone 10+,ESRB,12/8/2017,https://www.microsoft.com/en-us/store/p/hello-neighbor/C0G1L18DT97K
+161,Hollow Knight,PC,14.99,FALSE,FALSE,Everyone 10+,ESRB,6/9/2019,https://www.microsoft.com/en-us/store/p/hollow-knight/9PKM22F7C9K5
+162,Hollow Knight,Xbox One,14.99,FALSE,FALSE,Everyone 10+,ESRB,9/25/2018,https://www.microsoft.com/en-us/store/p/hollow-knight-voidheart-edition/9MW9469V91LM
+163,Hotline Miami,PC,9.99,FALSE,FALSE,Mature 17+,ESRB,6/9/2019,https://www.microsoft.com/en-us/store/p/hotline-miami/9PPCS86WS28Z
+164,Human Fall Flat,PC,14.99,FALSE,TRUE,Everyone,ESRB,12/12/2019,https://www.microsoft.com/en-us/store/p/human-fall-flat/9MT4HS1CP72W
+165,Human Fall Flat,Xbox One,14.99,FALSE,TRUE,Everyone,ESRB,5/12/2017,https://www.microsoft.com/en-us/store/p/human-fall-flat/BSMZH25V6V46
+166,HyperDot,Both,19.99,FALSE,TRUE,Everyone,ESRB,1/31/2020,https://www.microsoft.com/en-us/store/p/hyperdot/9NVVJ8TBD7KP
+167,Hypnospace Outlaw,Both,14.99,FALSE,FALSE,Teen,ESRB,8/27/2020,https://www.microsoft.com/en-us/store/p/hypnospace-outlaw/9PM3NVB3PXG0
+168,Indivisible,Xbox One,39.99,FALSE,FALSE,Teen,ESRB,10/8/2019,https://www.microsoft.com/en-us/store/p/indivisible/9NBFQMP69N1S
+169,Indivisible,PC,39.99,FALSE,FALSE,Teen,ESRB,2/26/2020,https://www.microsoft.com/en-us/store/p/indivisible/9N3KCLT53VDZ
+170,Infinifactory,PC,24.99,FALSE,FALSE,Teen,ESRB,12/19/2019,https://www.microsoft.com/en-us/store/p/infinifactory/9NHGM9CS3XLF
+171,It Lurks Below,Both,19.99,FALSE,FALSE,Teen,ESRB,8/6/2020,https://www.microsoft.com/en-us/store/p/it-lurks-below/9PFW68JLS81F
+172,Jetpac Refuelled,Xbox One,4.99,TRUE,FALSE,Everyone,ESRB,10/24/2006,https://www.microsoft.com/en-us/store/p/jetpac-refuelled/BRRVN5198461
+173,Journey to the Savage Planet,Xbox One,29.99,FALSE,FALSE,Teen,ESRB,1/28/2020,https://www.microsoft.com/en-us/store/p/journey-to-the-savage-planet/BZ3CVPFPDSHK
+174,Joy Ride Turbo,Xbox One,9.99,TRUE,FALSE,Everyone,ESRB,5/23/2012,https://www.microsoft.com/en-us/store/p/joy-ride-turbo/C1ZWH2BZ9TSF
+175,JUMP FORCE,Xbox One,59.99,FALSE,TRUE,Teen,ESRB,2/15/2019,https://www.microsoft.com/en-us/p/jump-force/BQKTZHL91458
+176,Kameo,Xbox One,9.99,TRUE,FALSE,Teen,ESRB,8/11/2009,https://www.microsoft.com/en-us/store/p/kameo/BV83SM3191S5
+177,Killer Instinct: Definitive Edition,Xbox One,39.99,TRUE,TRUE,Mature 17+,ESRB,9/20/2016,https://www.microsoft.com/en-us/store/p/killer-instinct-definitive-edition/BVQ3FL3201P8
+178,Killer Instinct: Definitive Edition,PC,39.99,TRUE,TRUE,Mature 17+,ESRB,12/9/2016,https://www.microsoft.com/en-us/store/p/killer-instinct-definitive-edition/9NBLGGH51BMC
+179,KINGDOM HEARTS - HD 1.5+2.5 ReMIX,Xbox One,49.99,FALSE,FALSE,Everyone 10+,ESRB,2/18/2020,https://www.microsoft.com/en-us/store/p/kingdom-hearts---hd-1525-remix--/9NHDF1Q6HGMH
+180,KINGDOM HEARTS HD 2.8 Final Chapter Prologue,Xbox One,59.99,FALSE,FALSE,Everyone 10+,ESRB,2/18/2020,https://www.microsoft.com/en-us/store/p/kingdom-hearts-hd-28-final-chapter-prologue/9NB80T1XC43B
+181,KINGDOM HEARTS III,Xbox One,59.99,FALSE,FALSE,Everyone 10+,ESRB,1/29/2019,https://www.microsoft.com/en-us/p/kingdom-hearts-/C08MW8XHQN9G
+182,Kona,Xbox One,14.99,FALSE,FALSE,Teen,ESRB,3/17/2017,https://www.microsoft.com/en-us/store/p/kona/BXDSG249D6Q2
+183,LEGO Star Wars III,Xbox One,19.99,TRUE,FALSE,Everyone 10+,ESRB,3/22/2011,https://www.microsoft.com/en-us/store/p/lego-star-wars-iii/C27JSQ4XKP9X
+184,Levelhead,Both,19.99,FALSE,FALSE,Everyone,ESRB,4/30/2020,https://www.microsoft.com/en-us/store/p/levelhead/9PJZBB8FWK8H
+185,Lonely Mountains: Downhill,Both,19.99,FALSE,FALSE,Everyone 10+,ESRB,10/23/2019,https://www.microsoft.com/en-us/store/p/lonely-mountains-downhill/9MV6MCVLT8GR
+186,Machinarium,PC,14.99,FALSE,FALSE,Everyone 10+,ESRB,4/16/2020,https://www.microsoft.com/en-us/store/p/machinarium/9N83GKZLC8BK
+187,MARVEL VS. CAPCOM: INFINITE,Both,39.99,FALSE,TRUE,Teen,ESRB,9/19/2017,https://www.microsoft.com/en-us/store/p/marvel-vs-capcom-infinite/9PGSCB1X2P7G
+188,Mass Effect,Xbox One,19.99,TRUE,FALSE,Mature 17+,ESRB,8/6/2009,https://www.microsoft.com/en-us/store/p/mass-effect/BV5N90RDT0SH
+189,Max: The Curse of Brotherhood,Xbox One,14.99,TRUE,FALSE,Everyone 10+,ESRB,12/20/2013,https://www.microsoft.com/en-us/store/p/max-the-curse-of-brotherhood/C0SFCF4PBRSZ
+190,MechWarrior 5: Mercenaries,PC,49.99,FALSE,FALSE,Teen,ESRB,5/7/2020,https://www.microsoft.com/en-us/store/p/mechwarrior-5-mercenaries/9PB86W3JK8Z5
+191,METAL GEAR SOLID HD EDITION: 2 & 3,Xbox One,19.99,TRUE,FALSE,Mature 17+,ESRB,11/8/2011,https://www.microsoft.com/en-us/store/p/metal-gear-solid-hd-edition-2--3/BWX1KN6K55Q1
+192,Metro 2033 Redux,PC,19.99,FALSE,FALSE,Mature 17+,ESRB,11/7/2019,https://www.microsoft.com/en-us/store/p/metro-2033-redux/9NQ387M27TMV
+193,Metro 2033 Redux,Xbox One,19.99,FALSE,FALSE,Mature 17+,ESRB,8/26/2014,https://www.microsoft.com/en-us/store/p/metro-2033-redux/BPPTRQZRJ341
+194,Metro: Last Light Redux,PC,19.99,FALSE,FALSE,Mature 17+,ESRB,12/12/2019,https://www.microsoft.com/en-us/store/p/metro-last-light-redux/9NM5W1TDNQZ3
+195,Metro: Last Light Redux,Xbox One,19.99,FALSE,FALSE,Mature 17+,ESRB,8/26/2014,https://www.microsoft.com/en-us/store/p/metro-last-light-redux/C03J6WR23XQ9
+196,Microsoft Flight Simulator: Standard,PC,59.99,TRUE,TRUE,Everyone,ESRB,8/18/2020,https://www.microsoft.com/en-us/store/p/microsoft-flight-simulator-standard/9NXN8GF8N9HT
+197,Middle-earth: Shadow of War,Both,49.99,FALSE,FALSE,Mature 17+,ESRB,10/10/2017,https://www.microsoft.com/en-us/p/middle-earth-shadow-of-war/9PDV8FKWP3B4
+198,Minecraft,Xbox One,19.99,TRUE,TRUE,Everyone 10+,ESRB,9/20/2017,https://www.microsoft.com/en-us/p/minecraft/9NBLGGH537BL
+199,Minecraft Dungeons,Xbox One,19.99,TRUE,FALSE,Everyone 10+,ESRB,5/26/2020,https://www.microsoft.com/en-us/store/p/minecraft-dungeons/9N8NJ74FZTG9
+200,Minecraft Dungeons,PC,19.99,TRUE,FALSE,Everyone 10+,ESRB,5/26/2020,https://www.microsoft.com/en-us/store/p/minecraft-dungeons---windows-10/9P8MK4NC0LJB
+201,MINIT,Xbox One,9.99,FALSE,FALSE,Everyone,ESRB,4/3/2018,https://www.microsoft.com/en-us/store/p/minit/C120V2WGRMCH
+202,MINIT,PC,9.99,FALSE,FALSE,Everyone,ESRB,10/24/2019,https://www.microsoft.com/en-us/store/p/minit/9PJR1F15JBX0
+203,MISTOVER,PC,29.99,FALSE,FALSE,Teen,ESRB,10/10/2019,https://www.microsoft.com/en-us/store/p/mistover/9P8K66J3CQ9S
+204,Momodora: Reverie Under the Moonlight,Xbox One,9.99,FALSE,FALSE,Teen,ESRB,3/17/2017,https://www.microsoft.com/en-us/store/p/momodora-reverie-under-the-moonlight/BPKQZ245CQ2H
+205,Momodora: Reverie Under the Moonlight,PC,9.99,FALSE,FALSE,Teen,ESRB,10/19/2017,https://www.microsoft.com/en-us/store/p/momodora-reverie-under-the-moonlight/9NZL00LF4V58
+206,MONSTER HUNTER: WORLD,Xbox One,29.99,FALSE,TRUE,Teen,ESRB,1/26/2018,https://www.microsoft.com/en-us/p/monster-hunter-world/BNG91PT95LQN
+207,Moonlighter,Both,19.99,FALSE,FALSE,Everyone 10+,ESRB,5/29/2018,https://www.microsoft.com/en-us/store/p/moonlighter/9P8XJRLCLH2P
+208,Mortal Kombat X,Xbox One,19.99,FALSE,TRUE,Mature 17+,ESRB,4/14/2015,https://www.microsoft.com/en-us/store/p/mortal-kombat-x/C01Z9J8S9BJP
+209,Mother Russia Bleeds,PC,14.99,FALSE,FALSE,Mature 17+,ESRB,3/5/2020,https://www.microsoft.com/en-us/store/p/mother-russia-bleeds/9NVFHBKDLPM4
+210,Mount & Blade: Warband,Xbox One,19.99,FALSE,TRUE,Teen,ESRB,9/16/2016,https://www.microsoft.com/en-us/store/p/mount--blade-warband/BQXN1S3V3FN9
+211,Moving Out,Xbox One,24.99,FALSE,TRUE,Everyone,ESRB,4/28/2020,https://www.microsoft.com/en-us/store/p/moving-out/9NXPBSMHPLTV
+212,Moving Out,PC,24.99,FALSE,TRUE,Everyone,ESRB,4/28/2020,https://www.microsoft.com/en-us/store/p/moving-out/9N9H593X8SVP
+213,MudRunner,Xbox One,34.99,FALSE,FALSE,Everyone,ESRB,10/31/2017,https://www.microsoft.com/en-us/store/p/mudrunner/BTSQF5T410C6
+214,MudRunner,PC,24.99,FALSE,FALSE,Everyone,ESRB,6/9/2019,https://www.microsoft.com/en-us/store/p/mudrunner/9N58J0GM9MRP
+215,Munchkin: Quacked Quest,Both,24.99,FALSE,TRUE,Everyone 10+,ESRB,11/19/2019,https://www.microsoft.com/en-us/store/p/munchkin-quacked-quest/9N80L1CTZ86W
+216,Mutant Year Zero: Road to Eden,Both,34.99,FALSE,FALSE,Mature 17+,ESRB,12/4/2018,https://www.microsoft.com/en-us/store/p/mutant-year-zero-road-to-eden/9NMP9B9KMKLF
+217,My Friend Pedro,Xbox One,19.99,FALSE,FALSE,Mature 17+,ESRB,12/5/2019,https://www.microsoft.com/en-us/store/p/my-friend-pedro/9P16M6LF0QFH
+218,My Friend Pedro,PC,19.99,FALSE,FALSE,Mature 17+,ESRB,12/5/2019,https://www.microsoft.com/en-us/store/p/my-friend-pedro-win10/9NMH293554QQ
+219,My Time At Portia,Xbox One,29.99,FALSE,FALSE,Everyone 10+,ESRB,4/16/2019,https://www.microsoft.com/en-us/store/p/my-time-at-portia/BX1FZX1X4132
+220,My Time At Portia,PC,29.99,FALSE,FALSE,Everyone 10+,ESRB,7/4/2019,https://www.microsoft.com/en-us/store/p/my-time-at-portia/9NBLSN1JP7TH
+221,NARUTO TO BORUTO: SHINOBI STRIKER,Xbox One,59.99,FALSE,TRUE,Teen,ESRB,8/31/2018,https://www.microsoft.com/en-us/store/p/naruto-to-boruto-shinobi-striker/BRX56LQJMZ4G
+222,NBA 2K20,Xbox One,59.99,FALSE,TRUE,Everyone,ESRB,9/6/2019,https://www.microsoft.com/en-us/p/nba-2k20/9P9KN2G4M2W0
+223,Neon Abyss,Xbox One,19.99,FALSE,FALSE,Teen,ESRB,7/14/2020,https://www.microsoft.com/en-us/store/p/neon-abyss/9NC781DK18GN
+224,Neon Abyss,PC,19.99,FALSE,FALSE,Teen,ESRB,7/14/2020,https://www.microsoft.com/en-us/store/p/neon-abyss/9PLWSGHFQ4PS
+225,New Super Lucky's Tale,Both,39.99,FALSE,FALSE,Everyone,ESRB,8/21/2020,https://www.microsoft.com/en-us/store/p/new-super-luckys-tale/9MZN3SMXN824
+226,NieR:Automata BECOME AS GODS Edition,Xbox One,39.99,FALSE,FALSE,Mature 17+,ESRB,6/26/2018,https://www.microsoft.com/en-us/p/nierautomata-become-as-gods-edition/BPPZVT8BZ15N
+227,Night Call,Xbox One,19.99,FALSE,FALSE,Mature 17+,ESRB,6/24/2020,https://www.microsoft.com/en-us/store/p/night-call/9NZKR4V4QGD4
+228,Night Call,PC,19.99,FALSE,FALSE,Mature 17+,ESRB,7/17/2019,https://www.microsoft.com/en-us/store/p/night-call/9N5KSQG0R9TB
+229,NINJA GAIDEN II,Xbox One,29.99,TRUE,FALSE,Mature 17+,ESRB,7/29/2009,https://www.microsoft.com/en-us/store/p/ninja-gaiden-ii/BSCSRTX27ZH3
+230,No Man's Sky,Both,49.99,FALSE,TRUE,Teen,ESRB,7/24/2018,https://www.microsoft.com/en-us/store/p/no-mans-sky/BQVQTL3PCH05
+231,Nowhere Prophet,Both,24.99,FALSE,FALSE,Teen,ESRB,7/29/2020,https://www.microsoft.com/en-us/store/p/nowhere-prophet/9P01NRSZCVR6
+232,Observation,Both,24.99,FALSE,FALSE,Mature 17+,ESRB,6/25/2020,https://www.microsoft.com/en-us/store/p/observation/9PBLH1322GX0
+233,Ori and the Blind Forest: Definitive Edition,Xbox One,19.99,TRUE,FALSE,Everyone,ESRB,3/11/2016,https://www.microsoft.com/en-us/store/p/ori-and-the-blind-forest-definitive-edition/BW85KQB8Q31M
+234,Ori and the Blind Forest: Definitive Edition,PC,19.99,TRUE,FALSE,Everyone,ESRB,3/30/2016,https://www.microsoft.com/en-us/store/p/ori-and-the-blind-forest-definitive-edition/9NBLGGH1Z6FB
+235,Ori and the Will of the Wisps,Both,29.99,TRUE,FALSE,Everyone,ESRB,3/11/2020,https://www.microsoft.com/en-us/p/ori-and-the-will-of-the-wisps/9N8CD0XZKLP4
+236,Out of the Park Baseball 21,PC,39.99,FALSE,FALSE,Everyone,ESRB,6/25/2020,https://www.microsoft.com/en-us/store/p/out-of-the-park-baseball-21/9NNW9V8DVPG6
+237,Outer Wilds,Xbox One,24.99,FALSE,FALSE,Everyone 10+,ESRB,5/29/2019,https://www.microsoft.com/en-us/store/p/outer-wilds/C596FKDKMQN7
+238,Overcooked! 2,Xbox One,24.99,FALSE,TRUE,Everyone,ESRB,8/7/2018,https://www.microsoft.com/en-us/store/p/overcooked-2/BVJLKDG2TX8H
+239,Overcooked! 2,PC,24.99,FALSE,TRUE,Everyone,ESRB,4/2/2020,https://www.microsoft.com/en-us/store/p/overcooked-2/9PGB72NFG5JN
+240,Oxenfree,Xbox One,9.99,FALSE,FALSE,Teen,ESRB,1/15/2016,https://www.microsoft.com/en-us/store/p/oxenfree/BSK1GN27RB8R
+241,Oxenfree,PC,9.99,FALSE,FALSE,Teen,ESRB,10/12/2017,https://www.microsoft.com/en-us/store/p/oxenfree/9NBLGGH6CTZ5
+242,Pandemic: The Board Game,Both,19.99,FALSE,TRUE,Everyone,ESRB,8/1/2019,https://www.microsoft.com/en-us/store/p/pandemic-the-board-game/9P8Q4W21QQZ2
+243,Panzer Dragoon Orta,Xbox One,9.99,TRUE,FALSE,Teen,ESRB,4/17/2018,https://www.microsoft.com/en-us/store/p/panzer-dragoon-orta/C3LNP2Q4422J
+244,Pathologic 2,Both,34.99,FALSE,FALSE,Mature 17+,ESRB,12/12/2019,https://www.microsoft.com/en-us/store/p/pathologic-2/9PHS5Q7KQMJM
+245,PAYDAY 2: CRIMEWAVE EDITION,Xbox One,19.99,FALSE,TRUE,Mature 17+,ESRB,6/16/2015,https://www.microsoft.com/en-us/store/p/payday-2-crimewave-edition/C2Z9D406G0KQ
+246,Perfect Dark,Xbox One,9.99,TRUE,FALSE,Mature 17+,ESRB,3/17/2010,https://www.microsoft.com/en-us/store/p/perfect-dark/BQ70VB4MM1XM
+247,Perfect Dark Zero,Xbox One,14.99,TRUE,FALSE,Mature 17+,ESRB,8/11/2009,https://www.microsoft.com/en-us/store/p/perfect-dark-zero/BZF7N4FQWHNR
+248,Phoenix Point,PC,39.99,FALSE,FALSE,Teen,ESRB,12/19/2019,https://www.microsoft.com/en-us/store/p/phoenix-point/9P1P5Q3BNM7J
+249,Pikuniku,Xbox One,12.99,FALSE,FALSE,Everyone,ESRB,3/12/2020,https://www.microsoft.com/en-us/store/p/pikuniku/9N8WRDC25K6J
+250,Pikuniku,PC,12.99,FALSE,FALSE,Everyone,ESRB,3/12/2020,https://www.microsoft.com/en-us/store/p/pikuniku-win10/9N8QNKN5ZKTH
+251,Pillars of Eternity,Xbox One,49.99,FALSE,FALSE,Mature 17+,ESRB,8/29/2017,https://www.microsoft.com/en-us/store/p/pillars-of-eternity-complete-edition/BS34VNW7H61F
+252,Pillars of Eternity,PC,29.99,FALSE,FALSE,Mature 17+,ESRB,12/19/2019,https://www.microsoft.com/en-us/store/p/pillars-of-eternity-hero-edition/9P5LZC1KB48V
+253,PLAYERUNKNOWN'S BATTLEGROUNDS,Xbox One,19.99,FALSE,TRUE,Teen,ESRB,9/4/2018,https://www.microsoft.com/en-us/p/playerunknowns-battlegrounds/C0MN5DN8KR3F
+254,Plebby Quest: The Crusades,PC,19.99,FALSE,FALSE,Teen,ESRB,5/21/2020,https://www.microsoft.com/en-us/store/p/plebby-quest-the-crusades/9MWBPSQ5PKQR
+255,Power Rangers: Battle for the Grid,Both,19.99,FALSE,TRUE,Teen,ESRB,3/26/2019,https://www.microsoft.com/en-us/store/p/power-rangers-battle-for-the-grid/9P5VMG8D4P4B
+256,Quantum Break,Xbox One,39.99,TRUE,FALSE,Mature 17+,ESRB,4/5/2016,https://www.microsoft.com/en-us/store/p/quantum-break/BPNDKQN84N6L
+257,RAGE 2,Xbox One,59.99,FALSE,FALSE,Mature 17+,ESRB,5/14/2019,https://www.microsoft.com/en-us/p/rage-2/C2DCJ95ZXBMS
+258,RAGE 2,PC,59.99,FALSE,FALSE,Mature 17+,ESRB,11/14/2019,https://www.microsoft.com/en-us/store/p/rage-2-pc/9P2J7WHV0K4N
+259,Rare Replay,Xbox One,29.99,TRUE,TRUE,Mature 17+,ESRB,8/4/2015,https://www.microsoft.com/en-us/store/p/rare-replay/C22T53SQ7FLM
+260,ReCore,Both,19.99,TRUE,FALSE,Teen,ESRB,9/13/2016,https://www.microsoft.com/en-us/store/p/recore/9NBLGGH1Z6FQ
+261,Red Dead Redemption 2,Xbox One,59.99,FALSE,FALSE,Mature 17+,ESRB,10/26/2018,https://www.microsoft.com/en-us/p/red-dead-redemption-2/BPSWGQBW7R3G
+262,Reigns: Game of Thrones,PC,3.99,FALSE,FALSE,Teen,ESRB,2/20/2020,https://www.microsoft.com/en-us/store/p/reigns-game-of-thrones/9NB2WLSJ2QK3
+263,Remnant: From the Ashes,Xbox One,39.99,FALSE,FALSE,Mature 17+,ESRB,8/20/2019,https://www.microsoft.com/en-us/store/p/remnant-from-the-ashes/9PBHXGWZTS2N
+264,Rise & Shine,Xbox One,14.99,FALSE,FALSE,Mature 17+,ESRB,1/13/2017,https://www.microsoft.com/en-us/store/p/rise--shine/BR3152PVJV5J
+265,Rise of Nations: Extended Edition,PC,19.99,TRUE,TRUE,Teen,ESRB,9/14/2017,https://www.microsoft.com/en-us/store/p/rise-of-nations-extended-edition/9NS84HCWZD8B
+266,Rocket League,Xbox One,19.99,FALSE,TRUE,Everyone,ESRB,2/17/2016,https://www.microsoft.com/en-us/store/p/rocket-league/C125W9BG2K0V
+267,Rush: A DisneyPixar Adventure,Both,19.99,TRUE,FALSE,Everyone 10+,ESRB,10/31/2017,https://www.microsoft.com/en-us/store/p/rush-a-disneypixar-adventure/9P3PL76N0KWZ
+268,Ryse: Son of Rome,Xbox One,39.99,TRUE,TRUE,Mature 17+,ESRB,11/22/2013,https://www.microsoft.com/en-us/store/p/ryse-son-of-rome/C10QTNC7JWNJ
+269,Saints Row IV: Re-Elected,PC,19.99,FALSE,TRUE,Mature 17+,ESRB,10/17/2019,https://www.microsoft.com/en-us/store/p/saints-row-iv-re-elected/9NFVLZQDZHKW
+270,ScourgeBringer (Game Preview),PC,14.99,FALSE,FALSE,Teen,ESRB,12/31/2799,https://www.microsoft.com/en-us/store/p/scourgebringer-game-preview/9NXPV1T3WS34
+271,ScreamRide,Xbox One,29.99,TRUE,FALSE,Everyone 10+,ESRB,3/3/2015,https://www.microsoft.com/en-us/store/p/screamride/BQ4M1XWXFKHB
+272,Sea of Thieves,Both,39.99,TRUE,TRUE,Teen,ESRB,3/20/2018,https://www.microsoft.com/en-us/store/p/sea-of-thieves/9P2N57MC619K
+273,Sea Salt,Both,14.99,FALSE,FALSE,Teen,ESRB,10/17/2019,https://www.microsoft.com/en-us/store/p/sea-salt/9NXQ4PX4TZJZ
+274,Secret Neighbor,Xbox One,19.99,FALSE,TRUE,Teen,ESRB,10/23/2019,https://www.microsoft.com/en-us/store/p/secret-neighbor/9P7GBPGT90L3
+275,Shadow Warrior 2,PC,39.99,FALSE,FALSE,Mature 17+,ESRB,9/19/2019,https://www.microsoft.com/en-us/store/p/shadow-warrior-2/9P6SFBR1TCWQ
+276,Shadow Warrior 2,Xbox One,39.99,FALSE,TRUE,Mature 17+,ESRB,5/19/2017,https://www.microsoft.com/en-us/store/p/shadow-warrior-2/BP79KKVGDDH1
+277,Slay The Spire,Xbox One,24.99,FALSE,FALSE,Everyone 10+,ESRB,8/14/2019,https://www.microsoft.com/en-us/store/p/slay-the-spire/9P6W46XMDJM5
+278,Slay The Spire,PC,24.99,FALSE,FALSE,Everyone 10+,ESRB,6/9/2019,https://www.microsoft.com/en-us/store/p/slay-the-spire/9MZQR8317S3B
+279,Sniper Elite 4,Xbox One,59.99,FALSE,TRUE,Mature 17+,ESRB,2/14/2017,https://www.microsoft.com/en-us/store/p/sniper-elite-4/BZ5VLVX84STW
+280,SOULCALIBUR VI,Xbox One,59.99,FALSE,TRUE,Teen,ESRB,10/19/2018,https://www.microsoft.com/en-us/p/soulcalibur-vi/C3V22FQD8N84
+281,Spiritfarer,Both,29.99,FALSE,FALSE,Teen,ESRB,8/18/2020,https://www.microsoft.com/en-us/store/p/spiritfarer/9NG5L58FD3X5
+282,State of Decay 2: Juggernaut Edition,Both,29.99,TRUE,TRUE,Mature 17+,ESRB,5/22/2018,https://www.microsoft.com/en-us/p/state-of-decay-2-juggernaut-edition/9NT4X7P8B9NB
+283,State of Decay: Year-One,Xbox One,19.99,TRUE,FALSE,Mature 17+,ESRB,4/28/2015,https://www.microsoft.com/en-us/store/p/state-of-decay-year-one/C5JGRR1LFVW8
+284,State of Mind PC,PC,29.99,FALSE,FALSE,Teen,ESRB,6/9/2019,https://www.microsoft.com/en-us/store/p/state-of-mind-pc/9PL8ST9QV6RP
+285,Stellaris,PC,39.99,FALSE,TRUE,Teen,ESRB,10/9/2019,https://www.microsoft.com/en-us/store/p/stellaris/9NXQPGMR917R
+286,Stellaris,Xbox One,39.99,FALSE,TRUE,Everyone 10+,ESRB,2/26/2019,https://www.microsoft.com/en-us/store/p/stellaris-console-edition/BWL72GR7Z7GK
+287,Stranger Things 3: The Game,PC,9.99,FALSE,TRUE,Teen,ESRB,4/9/2020,https://www.microsoft.com/en-us/store/p/stranger-things-3-the-game/9PMDDQ228FQD
+288,Streets of Rage 4,Both,24.99,FALSE,TRUE,Teen,ESRB,4/30/2020,https://www.microsoft.com/en-us/store/p/streets-of-rage-4/9N7H54KNCB9N
+289,Streets of Rogue,Xbox One,19.99,FALSE,TRUE,Teen,ESRB,7/12/2019,https://www.microsoft.com/en-us/store/p/streets-of-rogue/9MZVTHHJKD3G
+290,Subnautica,Both,29.99,FALSE,FALSE,Everyone 10+,ESRB,12/4/2018,https://www.microsoft.com/en-us/store/p/subnautica/BX3S1Q5DVHRD
+291,Sunset Overdrive,PC,19.99,TRUE,FALSE,Mature 17+,ESRB,11/16/2018,https://www.microsoft.com/en-us/store/p/sunset-overdrive/9NNLBL0T2Z43
+292,Sunset Overdrive,Xbox One,19.99,TRUE,TRUE,Mature 17+,ESRB,10/28/2014,https://www.microsoft.com/en-us/store/p/sunset-overdrive/BRZHFR5XBLQS
+293,Super Lucky's Tale,PC,9.99,TRUE,FALSE,Everyone,ESRB,11/7/2017,https://www.microsoft.com/en-us/store/p/super-luckys-tale/9PLMGFWCFZ9G
+294,Surviving Mars,Xbox One,29.99,FALSE,FALSE,Everyone 10+,ESRB,3/15/2018,https://www.microsoft.com/en-us/store/p/surviving-mars/BXC7CS90NX6S
+295,Surviving Mars,PC,29.99,FALSE,FALSE,Everyone 10+,ESRB,3/15/2018,https://www.microsoft.com/en-us/store/p/surviving-mars/9MXB71Q4VWGJ
+296,SWORD ART ONLINE: FATAL BULLET,Xbox One,39.99,FALSE,TRUE,Teen,ESRB,2/23/2018,https://www.microsoft.com/en-us/store/p/sword-art-online-fatal-bullet/BWH56DK175P1
+297,Tacoma,Both,19.99,FALSE,FALSE,Mature 17+,ESRB,8/2/2017,https://www.microsoft.com/en-us/store/p/tacoma/9P4WKZXWP1QW
+298,Tekken 7,Xbox One,49.99,FALSE,TRUE,Teen,ESRB,6/2/2017,https://www.microsoft.com/en-us/store/p/tekken-7/BRJGPRMBV1NT
+299,Tell Me Why,PC,21.99,TRUE,FALSE,Mature 17+,ESRB,8/27/2020,https://www.microsoft.com/en-us/store/p/tell-me-why/9NBL0XKVCN5L
+300,Tell Me Why: Chapters 1-3,Both,29.99,TRUE,FALSE,Mature 17+,ESRB,8/27/2020,https://www.microsoft.com/en-us/store/p/tell-me-why-chapters-1-3/9NF83PRZK6K3
+301,Terraria,Xbox One,19.99,FALSE,TRUE,Teen,ESRB,11/14/2014,https://www.microsoft.com/en-us/store/p/terraria/BTNPS60N3114
+302,The Bard's Tale ARPG : Remastered and Resnarkled,Both,19.99,TRUE,FALSE,Teen,ESRB,6/18/2020,https://www.microsoft.com/en-us/store/p/the-bards-tale-arpg--remastered-and-resnarkled/9PN3VDFTB5HZ
+303,The Bard's Tale IV: Director's Cut,Both,39.99,FALSE,FALSE,Teen,ESRB,8/27/2019,https://www.microsoft.com/en-us/p/the-bards-tale-iv-directors-cut/C2B4T86TXLRS
+304,The Bard's Tale Trilogy,Both,14.99,TRUE,FALSE,Teen,ESRB,8/13/2019,https://www.microsoft.com/en-us/store/p/the-bards-tale-trilogy/9MVN4ND41DD3
+305,The Dark Pictures Anthology: Man Of Medan,Xbox One,29.99,FALSE,FALSE,Mature 17+,ESRB,8/30/2019,https://www.microsoft.com/en-us/store/p/the-dark-pictures-anthology-man-of-medan/BZZ0Q9ZMM7GX
+306,The Elder Scrolls Online,Xbox One,19.99,FALSE,TRUE,Mature 17+,ESRB,6/6/2017,https://www.microsoft.com/en-us/p/the-elder-scrolls-online/BRKX5CRMRTC2
+307,The Elder Scrolls Online: Tamriel Unlimited,Xbox One,19.99,FALSE,TRUE,Mature 17+,ESRB,6/9/2015,https://www.microsoft.com/en-us/store/p/the-elder-scrolls-online-tamriel-unlimited/BPWXCL17ZZJG
+308,The Escapists 2,Xbox One,19.99,FALSE,TRUE,Teen,ESRB,8/22/2017,https://www.microsoft.com/en-us/store/p/the-escapists-2/BS8XGCLL3VQZ
+309,The Gardens Between,Both,19.99,FALSE,FALSE,Everyone,ESRB,11/29/2018,https://www.microsoft.com/en-us/store/p/the-gardens-between/9P4Z4TW66LPV
+310,The Jackbox Party Pack 3,Xbox One,24.99,FALSE,FALSE,Teen,ESRB,10/21/2016,https://www.microsoft.com/en-us/store/p/the-jackbox-party-pack-3/BS30XKD3WZHR
+311,The Long Dark,Xbox One,29.99,FALSE,FALSE,Teen,ESRB,8/1/2017,https://www.microsoft.com/en-us/store/p/the-long-dark/C41ZDFQ82M1G
+312,The Long Dark,PC,29.99,FALSE,FALSE,Teen,ESRB,11/2/2017,https://www.microsoft.com/en-us/store/p/the-long-dark/9NFKN56ZBMR0
+313,The Lord of the Rings: Adventure Card Game - Definitive Edition,Both,19.99,FALSE,TRUE,Everyone 10+,ESRB,11/5/2019,https://www.microsoft.com/en-us/store/p/the-lord-of-the-rings-adventure-card-game---definitive-edition/9NCP1745JF7B
+314,The Messenger,Xbox One,19.99,FALSE,FALSE,Everyone 10+,ESRB,6/25/2020,https://www.microsoft.com/en-us/store/p/the-messenger/9P5C81K094KW
+315,The Messenger,PC,19.99,FALSE,FALSE,Everyone 10+,ESRB,6/9/2019,https://www.microsoft.com/en-us/store/p/the-messenger/9NNFBW3NGV9K
+316,The Outer Worlds,Xbox One,59.99,FALSE,FALSE,Mature 17+,ESRB,10/25/2019,https://www.microsoft.com/en-us/p/the-outer-worlds/BVTKN6CQ8W5F
+317,The Outer Worlds,PC,59.99,FALSE,FALSE,Mature 17+,ESRB,10/25/2019,https://www.microsoft.com/en-us/store/p/the-outer-worlds/9MWD2Z8L1FBQ
+318,The Red Strings Club,PC,14.99,FALSE,FALSE,Mature 17+,ESRB,11/21/2019,https://www.microsoft.com/en-us/store/p/the-red-strings-club/9PFHBH19RL3C
+319,The Surge 2,Xbox One,49.99,FALSE,FALSE,Mature 17+,ESRB,9/24/2019,https://www.microsoft.com/en-us/store/p/the-surge-2/BSWTLFKMV96K
+320,The Surge 2,PC,39.99,FALSE,FALSE,Mature 17+,ESRB,3/19/2020,https://www.microsoft.com/en-us/store/p/the-surge-2---windows-10/9NLDM4DGX41G
+321,The Talos Principle,Xbox One,49.99,FALSE,FALSE,Teen,ESRB,8/31/2018,https://www.microsoft.com/en-us/store/p/the-talos-principle/C1TJ5KT8LT9J
+322,The Talos Principle,PC,54.99,FALSE,FALSE,Teen,ESRB,11/14/2019,https://www.microsoft.com/en-us/store/p/the-talos-principle/9N02KMVCRSRM
+323,The Touryst,Both,19.99,FALSE,FALSE,Everyone,ESRB,7/30/2020,https://www.microsoft.com/en-us/store/p/the-touryst/9N9W1JK1X5QJ
+324,The Turing Test,Xbox One,19.99,FALSE,FALSE,Teen,ESRB,8/30/2016,https://www.microsoft.com/en-us/store/p/the-turing-test/BS2MMFVLKXRK
+325,The Turing Test,PC,19.99,FALSE,FALSE,Teen,ESRB,11/23/2016,https://www.microsoft.com/en-us/store/p/the-turing-test/9NBLGGH4VVTL
+326,The Walking Dead: A New Frontier - The Complete Season (Episodes 1-5),Xbox One,14.99,FALSE,FALSE,Mature 17+,ESRB,12/20/2016,https://www.microsoft.com/en-us/store/p/the-walking-dead-a-new-frontier---the-complete-season-episodes-1-5/BQR7QS0F8SJ3
+327,"The Walking Dead: Michonne - Ep. 2, Give No Shelter",Xbox One,4.99,FALSE,FALSE,Mature 17+,ESRB,3/29/2016,https://www.microsoft.com/en-us/store/p/the-walking-dead-michonne---ep-2-give-no-shelter/C512KLS2GPD3
+328,"The Walking Dead: Michonne - Ep. 3, What We Deserve",Xbox One,4.99,FALSE,FALSE,Mature 17+,ESRB,4/26/2016,https://www.microsoft.com/en-us/store/p/the-walking-dead-michonne---ep-3-what-we-deserve/BT7L901WBLXD
+329,The Walking Dead: Michonne - The Complete Season,Xbox One,14.99,FALSE,FALSE,Mature 17+,ESRB,2/23/2016,https://www.microsoft.com/en-us/store/p/the-walking-dead-michonne---the-complete-season/C2XNJC9WK15X
+330,The Walking Dead: Season Two,Xbox One,14.99,FALSE,FALSE,Mature 17+,ESRB,10/21/2014,https://www.microsoft.com/en-us/store/p/the-walking-dead-season-two/C2DQXX0CB42F
+331,The Walking Dead: The Complete First Season,Xbox One,14.99,FALSE,FALSE,Mature 17+,ESRB,10/14/2014,https://www.microsoft.com/en-us/store/p/the-walking-dead-the-complete-first-season/BW6B077FCH11
+332,The Witcher 3: Wild Hunt,Xbox One,39.99,FALSE,FALSE,Mature 17+,ESRB,5/19/2015,https://www.microsoft.com/en-us/store/p/the-witcher-3-wild-hunt/BR765873CQJD
+333,theHunter: Call of the Wild,Xbox One,29.99,FALSE,TRUE,Teen,ESRB,10/2/2017,https://www.microsoft.com/en-us/store/p/thehunter-call-of-the-wild/BXBJQ1932138
+334,Thronebreaker: The Witcher Tales,Xbox One,19.99,FALSE,FALSE,Teen,ESRB,12/4/2018,https://www.microsoft.com/en-us/p/thronebreaker-the-witcher-tales/C09LFD39HKLW
+335,Thumper,PC,19.99,FALSE,FALSE,Everyone 10+,ESRB,10/19/2017,https://www.microsoft.com/en-us/store/p/thumper/9PHV10KXLJZT
+336,Ticket to Ride,Both,19.99,FALSE,FALSE,Everyone,ESRB,12/10/2019,https://www.microsoft.com/en-us/store/p/ticket-to-ride/9PJZXCCK7VLW
+337,Torment: Tides of Numenera,PC,44.99,TRUE,FALSE,Mature 17+,ESRB,6/27/2019,https://www.microsoft.com/en-us/store/p/torment-tides-of-numenera/9NC0071DJ6XC
+338,Totally Accurate Battle Simulator (Game Preview),Both,19.99,FALSE,FALSE,Teen,ESRB,12/31/2799,https://www.microsoft.com/en-us/store/p/totally-accurate-battle-simulator-game-preview/9PC4RWP34M2D
+339,Totally Reliable Delivery Service,Xbox One,14.99,FALSE,TRUE,Everyone,ESRB,4/1/2020,https://www.microsoft.com/en-us/store/p/totally-reliable-delivery-service/9NZG72SH3H4W
+340,Tracks - The Train Set Game,Xbox One,19.99,FALSE,FALSE,Everyone,ESRB,11/14/2019,https://www.microsoft.com/en-us/store/p/tracks---the-train-set-game/9PCTJNL0GDS9
+341,Tracks - The Train Set Game,PC,19.99,FALSE,FALSE,Everyone,ESRB,11/14/2019,https://www.microsoft.com/en-us/store/p/tracks---the-train-set-game/9NBM23T6G6RN
+342,Trailmakers,Both,29.99,FALSE,TRUE,Everyone 10+,ESRB,9/18/2019,https://www.microsoft.com/en-us/store/p/trailmakers/9NSFGM8J6MBJ
+343,Train Sim World 2020,Xbox One,29.99,FALSE,FALSE,Everyone,ESRB,8/15/2019,https://www.microsoft.com/en-us/store/p/train-sim-world-2020/9P32WWJ0PJJK
+344,Train Sim World 2020,PC,29.99,FALSE,FALSE,Everyone,ESRB,3/5/2020,https://www.microsoft.com/en-us/store/p/train-sim-world-2020/9PMT49X8ZGM2
+345,Two Point Hospital,Xbox One,39.99,FALSE,FALSE,Everyone 10+,ESRB,2/25/2020,https://www.microsoft.com/en-us/store/p/two-point-hospital/9PKM0HK8HKFL
+346,Two Point Hospital,PC,34.99,FALSE,FALSE,Everyone 10+,ESRB,2/25/2020,https://www.microsoft.com/en-us/store/p/two-point-hospital/9N08S5VPC4SX
+347,UnderMine,Both,19.99,FALSE,FALSE,Everyone 10+,ESRB,8/6/2020,https://www.microsoft.com/en-us/store/p/undermine/9N52CQMFH3BB
+348,Untitled Goose Game,Xbox One,19.99,FALSE,FALSE,Everyone,ESRB,12/17/2019,https://www.microsoft.com/en-us/store/p/untitled-goose-game/9MVTCTDTHH23
+349,Vambrace: Cold Soul,Both,24.99,FALSE,FALSE,Teen,ESRB,8/28/2019,https://www.microsoft.com/en-us/store/p/vambrace-cold-soul/9N171CGFVT1L
+350,Viva Pinata,Xbox One,14.99,TRUE,FALSE,Everyone,ESRB,6/1/2010,https://www.microsoft.com/en-us/store/p/viva-piata/BSXSL6WBJ0V7
+351,Viva Pinata: TIP,Xbox One,14.99,TRUE,FALSE,Everyone,ESRB,8/11/2009,https://www.microsoft.com/en-us/store/p/viva-piata-tip/BS1NPTPJGD4G
+352,Void Bastards,PC,29.99,FALSE,FALSE,Mature 17+,ESRB,6/9/2019,https://www.microsoft.com/en-us/store/p/void-bastards/9PJ1CGLKQSWS
+353,Void Bastards,Xbox One,29.99,FALSE,FALSE,Mature 17+,ESRB,5/29/2019,https://www.microsoft.com/en-us/store/p/void-bastards/9N584LPFG1GM
+354,Wandersong,Xbox One,19.99,FALSE,FALSE,Everyone 10+,ESRB,12/6/2019,https://www.microsoft.com/en-us/store/p/wandersong/9ND3Z0QH0NKB
+355,Wandersong,PC,19.99,FALSE,FALSE,Everyone 10+,ESRB,6/9/2019,https://www.microsoft.com/en-us/store/p/wandersong/9NJX558FNW9S
+356,Wargroove,Both,19.99,FALSE,TRUE,Everyone 10+,ESRB,2/1/2019,https://www.microsoft.com/en-us/store/p/wargroove/9NRPTTJ94PCK
+357,Wasteland 2: Director's Cut,Both,29.99,FALSE,FALSE,Mature 17+,ESRB,10/13/2015,https://www.microsoft.com/en-us/store/p/wasteland-2-directors-cut/C521HDXRTS7F
+358,Wasteland 3,PC,59.99,FALSE,FALSE,Mature 17+,ESRB,8/28/2020,https://www.microsoft.com/en-us/store/p/wasteland-3-pc/9NLT5XR52ZS7
+359,Wasteland 3,Xbox One,59.99,FALSE,FALSE,Mature 17+,ESRB,8/28/2020,https://www.microsoft.com/en-us/store/p/wasteland-3-xbox-one/BQ9T0JF0D3L4
+360,Wasteland Remastered,Both,14.99,TRUE,FALSE,Teen,ESRB,2/25/2020,https://www.microsoft.com/en-us/store/p/wasteland-remastered/9NGH1FK0RJGL
+361,We Happy Few,Xbox One,59.99,FALSE,FALSE,Mature 17+,ESRB,8/10/2018,https://www.microsoft.com/en-us/p/we-happy-few/BPR2TBS2KMQJ
+362,We Happy Few,PC,59.99,FALSE,FALSE,Mature 17+,ESRB,8/10/2018,https://www.microsoft.com/en-us/store/p/we-happy-few/9NBLGGH5342P
+363,West of Dead,Xbox One,19.99,FALSE,FALSE,Teen,ESRB,6/18/2020,https://www.microsoft.com/en-us/store/p/west-of-dead/9NTZCWK6P6GL
+364,West of Dead,PC,19.99,FALSE,FALSE,Teen,ESRB,6/18/2020,https://www.microsoft.com/en-us/store/p/west-of-dead/9NV0540N4JRN
+365,Westerado: Double Barreled,Xbox One,9.99,FALSE,TRUE,Teen,ESRB,12/9/2016,https://www.microsoft.com/en-us/store/p/westerado-double-barreled/BVVWBV3QB1D7
+366,What Remains of Edith Finch,Xbox One,19.99,FALSE,FALSE,Teen,ESRB,7/19/2017,https://www.microsoft.com/en-us/store/p/what-remains-of-edith-finch/BSLGLG8P9T01
+367,Wizard of Legend,Xbox One,15.99,FALSE,TRUE,Everyone 10+,ESRB,5/15/2018,https://www.microsoft.com/en-us/store/p/wizard-of-legend/C40HL7DFHWCX
+368,Wizard of Legend,PC,15.99,FALSE,FALSE,Everyone 10+,ESRB,6/9/2019,https://www.microsoft.com/en-us/store/p/wizard-of-legend/9MZH0GG41HL9
+369,Wolfenstein: Youngblood,Xbox One,29.99,FALSE,FALSE,Mature 17+,ESRB,7/26/2019,https://www.microsoft.com/en-us/store/p/wolfenstein-youngblood/C421ZX7RCG0W
+370,Wolfenstein: Youngblood,PC,29.99,FALSE,FALSE,Mature 17+,ESRB,2/6/2020,https://www.microsoft.com/en-us/store/p/wolfenstein-youngblood-pc/9PHFTS44F99K
+371,WORLD OF HORROR (Game Preview),PC,14.99,FALSE,FALSE,Mature 17+,ESRB,12/31/2799,https://www.microsoft.com/en-us/store/p/world-of-horror-game-preview/9N1FDTTSS49Z
+372,World War Z,Xbox One,29.99,FALSE,TRUE,Mature 17+,ESRB,4/16/2019,https://www.microsoft.com/en-us/store/p/world-war-z/BWQ5FC9WDJ6H
+373,Worms W.M.D,Xbox One,29.99,FALSE,TRUE,Everyone 10+,ESRB,8/23/2016,https://www.microsoft.com/en-us/store/p/worms-wmd/C4BZ7X545J1T
+374,Worms W.M.D,PC,29.99,FALSE,TRUE,Everyone 10+,ESRB,7/25/2019,https://www.microsoft.com/en-us/store/p/worms-wmd/9NVRZZJ4NG99
+375,Xeno Crisis,Both,19.99,FALSE,FALSE,Teen,ESRB,10/30/2019,https://www.microsoft.com/en-us/store/p/xeno-crisis/9PNBGZTL0Z1S
+376,Yakuza 0,Xbox One,19.99,FALSE,FALSE,Mature 17+,ESRB,2/26/2020,https://www.microsoft.com/en-us/store/p/yakuza-0/9NPP17LHJ3MK
+377,Yakuza 0,PC,19.99,FALSE,FALSE,Mature 17+,ESRB,2/26/2020,https://www.microsoft.com/en-us/store/p/yakuza-0-for-windows-10/9PD0BJRBLRJM
+378,Yakuza Kiwami,Xbox One,19.99,FALSE,FALSE,Mature 17+,ESRB,4/22/2020,https://www.microsoft.com/en-us/store/p/yakuza-kiwami/9NBJ51BD0LTH
+379,Yakuza Kiwami,PC,19.99,FALSE,FALSE,Mature 17+,ESRB,4/22/2020,https://www.microsoft.com/en-us/store/p/yakuza-kiwami-for-windows-10/9P40SC5DQ9K0
+380,Yakuza Kiwami 2,Xbox One,19.99,FALSE,FALSE,Mature 17+,ESRB,7/29/2020,https://www.microsoft.com/en-us/store/p/yakuza-kiwami-2/9PBJL0NLFMK9
+381,Yakuza Kiwami 2,PC,19.99,FALSE,FALSE,Mature 17+,ESRB,7/29/2020,https://www.microsoft.com/en-us/store/p/yakuza-kiwami-2-for-windows-10/9MZNFNN3XJ3F
+382,Yooka-Laylee,Xbox One,39.99,FALSE,TRUE,Everyone 10+,ESRB,4/11/2017,https://www.microsoft.com/en-us/store/p/yooka-laylee/BZK6TK63SVMP
+383,Zoo Tycoon: Ultimate Animal Collection,Both,19.99,TRUE,TRUE,Everyone,ESRB,10/31/2017,https://www.microsoft.com/en-us/store/p/zoo-tycoon-ultimate-animal-collection/9PJ06TZX4NMH

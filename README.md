@@ -1,4 +1,4 @@
-# Xbox-Game-Pass
+# Xbox Game Pass
 A breakdown of the Xbox Game Pass (XGP) game catalog into easily digestible trends and visualizations, to gain a better understanding of what this service includes and to quantify its value to a typical subscriber. The bulk of the data used herein was scraped from Microsoft's own Xbox Game Pass [website](https://www.xbox.com/en-US/xbox-game-pass/games), using the Beautiful Soup and Requests Python modules.
 
 ### Game Access By Subscription Tier
